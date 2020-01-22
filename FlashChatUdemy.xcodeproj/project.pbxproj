@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -60,7 +60,6 @@
 				6A3DC3F53E582FBC5763AB11 /* Pods-FlashChatUdemy.debug.xcconfig */,
 				E4A3964525A25D9DF6408E99 /* Pods-FlashChatUdemy.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
